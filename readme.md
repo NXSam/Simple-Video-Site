@@ -35,6 +35,9 @@ Replace the appropriate file names for your video files. The top file will play 
 
 ## ✏️ CSS Customization
 
+**Requirements:**
+NodeJS / NPM
+
 Download the repository and then run:
 
 ```shell
@@ -49,6 +52,19 @@ npx @tailwindcss/cli -i ./assets/base.css -o ./assets/styles.css
 
 This will generate new CSS based on your HTML. **If you don't run it for every change, that CSS will never get loaded.**
 
+## Why Did You Post This?
 
-## License
+I'm going to need this again next year or for the next holiday event where myself or one of my clients wants to hand out videos on flash drives or with some little quick site. I may as well stash it online, anyone can grab some pre-made boilerplate, and it'll save someone 30 minutes to an hour of time depending on their familiarity with CSS.
 
+# License
+
+This repository is GPL V3 licensed. In summary:
+
+- You can Copy, modify, and distribute this software
+- You must include a copy of the license and copyright notice in all distributions
+- You can use this software privately, publicly, and for commercial purposes
+- If you make any changes to this software, you must disclose them
+- All modifications to thise code must be distributed under the GPLv3 license
+- This software is provided as-is, without warranty, and the author is not liable for any damages
+
+Read the full terms in the license file to learn more.
