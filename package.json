@@ -1,0 +1,36 @@
+{
+  "name": "single-page-christmas-video-site",
+  "version": "1.0.0",
+  "description": "A simple 1-page HTML site that holds 2 videos, 1 for greater-than 2,000px wide (meant to load a 4K video) and one for less than 2,000px wide meant to hold a 1080p video. This is a quick way to deploy a festive christmas video for holiday promotions. Built with Tailwind CSS.",
+  "keywords": [
+    "video",
+    "site",
+    "one-page",
+    "one",
+    "page",
+    "boiler",
+    "plate",
+    "boilerplate",
+    "simple"
+  ],
+  "homepage": "https://github.com/NXSam/simple-video#readme",
+  "bugs": {
+    "url": "https://github.com/NXSam/simple-video/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NXSam/simple-video.git"
+  },
+  "license": "ISC",
+  "author": "Sam",
+  "type": "HTML",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {}
+}
